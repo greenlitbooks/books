@@ -4,6 +4,8 @@
   "repository": "https://github.com/greenlitbooks/books",
   "description": "Title, summary and chapter names for every book in the Greenlit Books catalog, each linked to its page on greenlitbooks.com.",
   "source": "https://greenlitbooks.com/api/v1/catalog",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "count": 82,
   "books": [
     {

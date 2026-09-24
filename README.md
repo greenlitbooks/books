@@ -131,6 +131,10 @@ For agents and scripts, [catalog.json](catalog.json) holds the same records. The
 
 - [The Claude Code Handbook](books/claude-code-handbook/) · [book page](https://greenlitbooks.com/book/claude-code-handbook)
 
+## License
+
+The contents of this repository (titles, summaries, chapter names and catalog.json) are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them freely, crediting Greenlit Books with a link to [greenlitbooks.com](https://greenlitbooks.com). The books themselves are not covered. See [LICENSE](LICENSE).
+
 ---
 
 Generated from the site's catalog, so nothing here says more than the book pages do. Corrections belong on the site: [greenlitbooks.com/errata](https://greenlitbooks.com/errata).
